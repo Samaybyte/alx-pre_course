@@ -1,0 +1,14 @@
+The first thing that i did to the question number 4 is.
+ I go to the github and update the README.md manually.
+and then i pulled the changes to my local by typing - git pull "clone link"
+
+The i created this empty file called "up_to_date"
+and added some instruction and commands inside it by using "nano"
+
+after that i pushed it to remote repo. hre is down below the steps/commands
+
+- touch up_to_date
+- nano up_to_date .../added some contents and saved it by presing Ctrl + O/
+- git add .
+- git commit -m "How to be up to date in git"
+- git push
